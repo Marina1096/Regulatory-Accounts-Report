@@ -6,7 +6,6 @@
 
 ```
 .
-├── json_data/                 # Синтетические данные (1 файл = 1 рабочий день 2024 г.)
 ├── generate_json.py           # Генератор JSON‑файлов
 ├── etl_load_accounts.py       # ETL‑загрузка в PostgreSQL
 ├── Скрипт создания таблиц.sql  # DDL: staging, reporting, представление accounts_view
